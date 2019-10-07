@@ -1,4 +1,6 @@
 ;;;; package.lisp
 
 (defpackage #:drillbit
-  (:use #:cl))
+  (:use #:cl)
+  (:export
+   :foo))
