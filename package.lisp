@@ -3,4 +3,4 @@
 (defpackage #:drillbit
   (:use #:cl)
   (:export
-   :foo))
+   :list-pkg-symbols))
